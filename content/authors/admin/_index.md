@@ -1,6 +1,10 @@
 ---
 # Display name
+<<<<<<< HEAD
 title: Meenakshi M
+=======
+title: Meenakshi
+>>>>>>> 3a645ea3f382dd32057fab934e042ce52d49da39
 
 # Full name (for SEO)
 first_name: Meenakshi
@@ -14,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,9 +30,9 @@ bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, C
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Astrophysics
+  - AGN jets
+  - Clusters
 
 # Education to show in About widget
 education:
