@@ -45,22 +45,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@cnrs.fr
+    link: mailto:mmeenakshi@aip.de
   - icon: github
     icon_pack: fab
     link: https://github.com/mmeenakshi
     display:
       header: true
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@simongravelle
     label: Follow me on Mastodon
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
   - icon: cv
     icon_pack: ai
-    link: files/resume/resume-simon-gravelle.pdf
+    link: files/resume/resume-mmeenakshi.pdf
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
