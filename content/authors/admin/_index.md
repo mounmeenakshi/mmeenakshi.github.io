@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Meenakshi M
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Meenakshi
+last_name: M
 
 # Status emoji
 status:
