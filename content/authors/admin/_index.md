@@ -1,10 +1,6 @@
 ---
 # Display name
-<<<<<<< HEAD
-title: Meenakshi M
-=======
 title: Meenakshi
->>>>>>> 3a645ea3f382dd32057fab934e042ce52d49da39
 
 # Full name (for SEO)
 first_name: Meenakshi
