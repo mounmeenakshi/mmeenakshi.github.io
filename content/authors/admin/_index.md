@@ -19,7 +19,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: LIPhy, Grenoble, France
-    url: https://liphy.univ-grenoble-alpes.fr/
+    url: https://lip.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
+    - course: PhD in 
       institution: University of Lyon (France)
       year: 2015
 
@@ -48,7 +48,7 @@ social:
     link: mailto:simon.gravelle@cnrs.fr
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/mmeenakshi
     display:
       header: true
   - icon: mastodon
@@ -69,7 +69,7 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 I am a computational physicist specializing in soft matter and fluids at interfaces, working at the LIPhy institute in Grenoble, France. In parallel, I serve as the Scientific Secretary of Section 08 of the National Committee.
 
-<a href="https://github.com/simongravelle" target="_blank" style="float: right">
+<a href="https://github.com/mmeenakshi" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
 </a>
 
