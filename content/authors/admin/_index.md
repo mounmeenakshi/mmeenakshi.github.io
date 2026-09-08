@@ -41,7 +41,6 @@ education:
 ### Contact
 
 **Office:** KH/1.34
-**Phone:** +49 331 7499 285
 **Email:** [mmeenakshi@aip.de](mailto:mmeenakshi@aip.de)
 **Address:**
 Leibniz Institute for Astrophysics Potsdam (AIP)  
