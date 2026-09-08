@@ -31,11 +31,10 @@ highlight_name: true
 
   <div style="flex:1; min-width:320px;">
 
-## About me
+### About me
 
-I am Meenakshi. Currently, I am a Postdoc at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany.
-
-I am interested in understanding the impact of AGN-driven outflows across a wide range of scales, from the inner regions of galaxies to galaxy clusters. In particular, I study how highly collimated yet powerful jets can regulate the evolution of their host galaxies and also shape the thermodynamic and dynamical properties of the surrounding intracluster medium.
+I am Meenakshi, a Postdoctoral Researcher at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany. I completed my PhD at the Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, in 2024, following an integrated BS-MS degree from the Indian Institute of Science Education and Research (IISER) Mohali, India (2019).
+My research focuses on active galactic nucleus (AGN) feedback, particularly the interaction of powerful jets and outflows with their surrounding environments, from galaxies to galaxy clusters.
 
   </div>
 
