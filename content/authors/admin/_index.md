@@ -26,18 +26,30 @@ education:
 highlight_name: true
 ---
 
+
+<div style="display:flex; justify-content:space-between; align-items:flex-end; gap:40px; flex-wrap:wrap;">
+
+  <div style="flex:1; min-width:320px;">
+
 ## About me
 
 I am a Postdoctoral Researcher at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany.
 
-## Contact
+  </div>
+
+  <div style="width:240px; text-align:left;">
+
+### Contact
 
 **Office:** KH/1.34
 
-**Email:** [mmeenakshi@aip.de](mailto:mmeenakshi@aip.de)
+**Email:** <a href="mailto:mmeenakshi@aip.de">mmeenakshi@aip.de</a>
 
-**Address:**
-
+**Address:**  
 Leibniz Institute for Astrophysics Potsdam (AIP)  
 An der Sternwarte 16  
 14482 Potsdam, Germany
+
+  </div>
+
+</div>
