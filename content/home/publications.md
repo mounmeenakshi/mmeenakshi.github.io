@@ -1,16 +1,14 @@
 ---
-widget: pages
+widget: markdown
 
-# This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
 weight: 80
 
 title: Publications
-subtitle: 'See also my <a href="https://scholar.google.com/citations?user=F2XYAP4AAAAJ&hl=en" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> </a> profile'
+subtitle: 'See also my <a href="https://scholar.google.com/citations?user=F2XYAP4AAAAJ&hl=en" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> Google Scholar</a> profile'
+---
 
-content:
 - [Identifying heating processes in simulations with an entropy-based scheme: A single jet episode in a galaxy cluster](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F2XYAP4AAAAJ&citation_for_view=F2XYAP4AAAAJ:Azgs6IHzeyYC)  
   **M. Meenakshi**, R. Weinberger, C. Pfrommer, T. Berlok  
   *arXiv preprint arXiv:2603.26882*
@@ -59,26 +57,3 @@ content:
   M. B. Shende, D. Mukherjee, N. P. H. Nesvadba, G. Bicknell, J. Leftley, et al.  
   *arXiv preprint arXiv:2607.03071*
 
-
-  # Filter on criteria
-  filters:
-    folders:
-      - publications
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 6
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-design:
-  # Choose a view for the listings:
-  view: citation
-  columns: '2'
----
