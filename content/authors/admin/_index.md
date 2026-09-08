@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Meenakshi
+title: Meenakshi M
 
 # Full name (for SEO)
-first_name: Meenakshi
-last_name: M
+#first_name: Meenakshi
+#last_name: M
 
 # Status emoji
 status:
@@ -45,7 +45,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    label: mmeenakshi@aip.de
+    link: "mailto:mmeenakshi@aip.de"
+    label: "mmeenakshi@aip.de"
 #  - icon: github
 #    icon_pack: fab
 #    link: https://mmeenakshi.github.io
