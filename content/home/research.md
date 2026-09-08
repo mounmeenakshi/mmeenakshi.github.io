@@ -9,14 +9,12 @@ content:
   page_type: Research
   filter_default: 0
   filter_button:
-    - name: Galaxy scale jets
+    - name: Compact AGN-driven outflows
       tag: '*'
     - name: Synchrotron emission
-      tag: Job
-    - name: Cluster jets
-      tag: Personal
-    - name: Self-regulated jets
-      tag: Outreach
+      tag: '*'
+    - name: Large-scale AGN jets
+      tag: '*'
   count: 3
   offset: 0
 design:
