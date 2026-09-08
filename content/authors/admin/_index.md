@@ -37,16 +37,28 @@ education:
       institution: IUCAA Pune
       year: 2024
 
+      
+### Contact
+
+**Office:** KH/1.34
+**Phone:** +49 331 7499 285
+**Email:** [mmeenakshi@aip.de](mailto:mmeenakshi@aip.de)
+**Address:**
+Leibniz Institute for Astrophysics Potsdam (AIP)  
+An der Sternwarte 16  
+14482 Potsdam, Germany
+
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 # Alternatively, use `google-scholar` icon from `ai` icon pack
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:mmeenakshi@aip.de"
-    label: "mmeenakshi@aip.de"
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: "mailto:mmeenakshi@aip.de"
+#    label: "mmeenakshi@aip.de"
 #  - icon: github
 #    icon_pack: fab
 #    link: https://mmeenakshi.github.io
