@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://mmeenakshi.github.io/sitemap.xml
+Sitemap: https://mounmeenakshi.github.io/sitemap.xml
