@@ -9,11 +9,11 @@ main:
     weight: 10
   - name: Research
     url: '#research'
-    weight: 80
+    weight: 40
   - name: Publications
     url: '#publications'
     weight: 80
   - name: Contact
     url: '#contact'
-    weight: 80
+    weight: 130
   

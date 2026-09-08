@@ -2,7 +2,7 @@
 widget: custom
 active: true
 headless: true
-weight: 80
+weight: 130
 title: Contact
 subtitle: ""
 ---
