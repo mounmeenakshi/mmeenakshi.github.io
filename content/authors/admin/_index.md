@@ -43,18 +43,18 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 # Alternatively, use `google-scholar` icon from `ai` icon pack
 social:
-#  - icon: envelope
-#    icon_pack: fas
-#     mmeenakshi@aip.de
+  - icon: envelope
+    icon_pack: fas
+    label: mmeenakshi@aip.de
 #  - icon: github
 #    icon_pack: fab
 #    link: https://mmeenakshi.github.io
 #    display:
 #      header: true
 #    label: Follow me on Mastodon
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=F2XYAP4AAAAJ&hl=en
+#  - icon: ai
+#    icon_pack: fas
+#    link: https://scholar.google.com/citations?user=F2XYAP4AAAAJ&hl=en
 #  - icon: cv
 #    icon_pack: ai
 #    link: files/resume/resume-mmeenakshi.pdf
