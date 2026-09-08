@@ -14,9 +14,9 @@ the [scholar-collector](https://github.com/simongravelle/scholar-collector).
 
 ## Overview
 
-[![image](static/img/Screenshot01.png)](https://mmeenakshi.github.io/)
+[![image](static/img/Screenshot01.png)](https://mounmeenakshi.github.io/)
 
-[![image](static/img/Screenshot02.png)](https://mmeenakshi.github.io/)
+[![image](static/img/Screenshot02.png)](https://mounmeenakshi.github.io/)
 
 ## Credit
 
