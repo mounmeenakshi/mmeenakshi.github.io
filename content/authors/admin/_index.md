@@ -39,7 +39,7 @@ I am Meenakshi, a Postdoctoral Researcher at the Leibniz Institute for Astrophys
 
 
 <p style="margin-top: 5px;">
-My research focuses on active galactic nucleus (AGN) feedback, particularly the interaction of powerful jets and outflows with their surrounding environments, from galaxies to galaxy clusters.
+My research focuses on active galactic nucleus (AGN) feedback, particularly the interaction of powerful jets and outflows with their surrounding environments, from inner galactic regions to galaxy clusters.
 
   </div>
 
