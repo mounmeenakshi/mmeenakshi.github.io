@@ -33,7 +33,9 @@ highlight_name: true
 
 ## About me
 
-I am a Postdoctoral Researcher at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany.
+I am Meenakshi. Currently, I am a Postdoc at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany.
+
+I am interested in understanding the impact of AGN-driven outflows across a wide range of scales, from the inner regions of galaxies to galaxy clusters. In particular, I study how highly collimated yet powerful jets can regulate the evolution of their host galaxies and also shape the thermodynamic and dynamical properties of the surrounding intracluster medium.
 
   </div>
 
