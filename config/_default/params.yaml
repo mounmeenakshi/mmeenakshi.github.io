@@ -73,7 +73,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/mounmeenakshi/mounmeenakshi.github.io'
+    url: 'https://github.com/mounmeenakshi/mmeenakshi.github.io'
     content_dir: content
     branch: master
   avatar:
