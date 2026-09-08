@@ -7,6 +7,7 @@ status:
   icon:
 
 role: Postdoctoral Researcher
+      Cosmology and High-Energy Astrophysics
 
 organizations:
   - name: Leibniz Institute for Astrophysics
