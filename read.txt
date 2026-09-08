@@ -46,3 +46,9 @@ In Settings, Pages, select:
 
 - Deploy from a branch as Source
 - gh-pages, `/(root)` as Branch
+
+
+
+git add .
+git commit -m "message"
+git push origin main
