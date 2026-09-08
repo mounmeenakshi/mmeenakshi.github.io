@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 80
 
 title: Contact
 subtitle: ""
@@ -23,5 +23,5 @@ content:
     country: Germany
 
 design:
-  columns: '2'
+  columns: '6'
 ---
