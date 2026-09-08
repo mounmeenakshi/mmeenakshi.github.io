@@ -13,7 +13,13 @@ main:
 #  - name: Team
 #    url: '#group'
 #    weight: 30
+- name: Research
+    url: '#/research'
+    weight: 40
   - name: Publications
     url: '#publications'
     weight: 40
+- name: Contact
+    url: '#contact'
+    weight: 10
   
