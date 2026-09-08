@@ -7,8 +7,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
+#title: Publications
+#subtitle: 'See also my [Scholar](https://scholar.google.com/citations?user=F2XYAP4AAAAJ&hl=en) profile'
 title: Publications
-subtitle: 'See also my [Scholar](https://scholar.google.com/citations?user=F2XYAP4AAAAJ&hl=en) profile'
+subtitle: 'See also my <a href="https://scholar.google.com/citations?user=F2XYAP4AAAAJ&hl=en" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> Google Scholar</a> profile'
 
 content:
   # Filter on criteria
