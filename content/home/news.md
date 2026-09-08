@@ -3,19 +3,19 @@ active: true
 widget: portfolio
 headless: true
 weight: 20
-title: News
+title: Research
 subtitle: ''
 content:
-  page_type: news
+  page_type: Research
   filter_default: 0
   filter_button:
-    - name: All
+    - name: Galaxy scale jets
       tag: '*'
-    - name: Job
+    - name: Synchrotron emission
       tag: Job
-    - name: Personal
+    - name: Cluster jets
       tag: Personal
-    - name: Outreach
+    - name: Self-regulated jets
       tag: Outreach
   count: 3
   offset: 0

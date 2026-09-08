@@ -19,7 +19,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Leibniz Institute for Astrophysics
-    url: https://lip.fr/
+    url: https://www.aip.de/en/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -48,7 +48,7 @@ social:
     link: mailto:mmeenakshi@aip.de
 #  - icon: github
 #    icon_pack: fab
-#    link: https://github.com/mounmeenakshi
+#    link: https://mmeenakshi.github.io
 #    display:
 #      header: true
 #    label: Follow me on Mastodon
@@ -66,9 +66,6 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 I am a Postdoctoral researcher at AIP, Germany. 
 
-<a href="https://github.com/mmeenakshi" target="_blank" style="float: right">
-  <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
-</a>
 
 <span style="display: block; height: 8px;"></span>
 
