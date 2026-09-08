@@ -32,7 +32,7 @@ highlight_name: true
   <div style="flex:1; min-width:320px;">
 
   
-<p style="margin-top: 30px;">
+<p style="margin-top: 100px;">
 
 
 I am Meenakshi, a Postdoctoral Researcher at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany. I completed my PhD at the Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, in 2024, following an integrated BS-MS degree from the Indian Institute of Science Education and Research (IISER) Mohali, India (2019).
