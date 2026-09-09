@@ -6,23 +6,17 @@ Some animations from the work:&lt;/p>
 &lt;source src="../research/outflows/ionization_jet.mp4" type="video/mp4">
 &lt;/video>
 Time evolution of ionization extent in Sim. B (vertical jet) and D (inclined jet). See &lt;a href="https://arxiv.org/abs/2201.06797" target="_blank" rel="noopener">The extent of ionization in simulations of radio-loud AGNs impacting kpc gas discs&lt;/a>, for details.&lt;/p>
-&lt;video controls >
-&lt;source src="../research/outflows/SimE_face.mp4" type="video/mp4">
-&lt;/video>
-&lt;video controls >
-&lt;source src="../research/outflows/simE_edge.mp4" type="video/mp4">
-&lt;/video>
 &lt;div style="display:flex; gap:20px; flex-wrap:wrap;">
 &lt;div style="flex:1; min-width:300px;">
 &lt;h4>Face-on&lt;/h4>
 &lt;video autoplay loop muted controls playsinline width="100%">
-&lt;source src="assets/media/SimE_face.mp4" type="video/mp4">
+&lt;source src="SimE_face.mp4" type="video/mp4">
 &lt;/video>
 &lt;/div>
 &lt;div style="flex:1; min-width:300px;">
 &lt;h4>Edge-on&lt;/h4>
 &lt;video autoplay loop muted controls playsinline width="100%">
-&lt;source src="assets/media/SimE_edge.mp4" type="video/mp4">
+&lt;source src="SimE_edge.mp4" type="video/mp4">
 &lt;/video>
 &lt;/div>
 &lt;/div>
