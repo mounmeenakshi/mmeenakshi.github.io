@@ -6,17 +6,29 @@ Some animations from the work:&lt;/p>
 &lt;source src="../research/outflows/ionization_jet.mp4" type="video/mp4">
 &lt;/video>
 Time evolution of ionization extent in Sim. B (vertical jet) and D (inclined jet). See &lt;a href="https://arxiv.org/abs/2201.06797" target="_blank" rel="noopener">The extent of ionization in simulations of radio-loud AGNs impacting kpc gas discs&lt;/a>, for details.&lt;/p>
-&lt;div style="display:flex; gap:20px; flex-wrap:wrap;">
-&lt;div style="flex:1; min-width:300px;">
-&lt;h4>Face-on&lt;/h4>
-&lt;video autoplay loop muted controls playsinline width="100%">
-&lt;source src="SimE_face_h264.mp4" type="video/mp4">
+&lt;div style="display:grid; grid-template-columns:1fr 1fr; gap:24px;">
+&lt;div>
+&lt;p>&lt;strong>Face-on&lt;/strong>&lt;/p>
+&lt;video width="100%" autoplay loop muted controls playsinline>
+&lt;source src="SimE_face.mp4" type="video/mp4">
 &lt;/video>
 &lt;/div>
-&lt;div style="flex:1; min-width:300px;">
-&lt;h4>Edge-on&lt;/h4>
-&lt;video autoplay loop muted controls playsinline width="100%">
+&lt;div>
+&lt;p>&lt;strong>Edge-on&lt;/strong>&lt;/p>
+&lt;video width="100%" autoplay loop muted controls playsinline>
 &lt;source src="SimE_edge.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;/div>
+&lt;div style="display:flex; justify-content:center; gap:16px; width:100vw; margin-left:calc(50% - 50vw);">
+&lt;div style="width:49vw;">
+&lt;video controls >
+&lt;source src="../research/outflows/SimD_face.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="width:49vw;">
+&lt;video controls >
+&lt;source src="../research/outflows/SimD_edge.mp4" type="video/mp4">
 &lt;/video>
 &lt;/div>
 &lt;/div>
