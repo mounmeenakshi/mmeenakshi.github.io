@@ -18,9 +18,9 @@ content:
   count: 3
   offset: 0
 design:
-  columns: '2'
+  columns: '1'
   # Toggle between the various page layout types.
-  #   1 = List
+     1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
