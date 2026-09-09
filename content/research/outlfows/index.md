@@ -1,9 +1,8 @@
 ---
 title: "How do AGN jets shape the disc dynamics?"
-
 type: Research
 
-summary: 
+summary: ""
 
 tags:
   - AGN
@@ -13,10 +12,13 @@ image:
   filename: jet_image.png
 ---
 
-  <div style="flex:1; min-width:320px;">
+<div style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap;">
 
-  
-<p style="margin-top: 100px;">
+  <img src="jet_image.png" alt="AGN jet simulation"
+       style="width:260px; border-radius:8px;">
+
+  <div style="flex:1; min-width:280px;">
+
 AGN-driven jets are not so uncommon in out universe. Observations show that they can strongly influence the evolution of their host galaxies, with many radio galaxies exhibiting highly turbulent, disturbed gas and velocity dispersions far greater than those in non-jetted systems. A central question of my research is: can we reproduce these signatures in simulations and connect them directly to observations?
 
 I address this using high-resolution simulations of AGN jets interacting with multiphase, fractal gas discs. My work investigates how jet power and orientation shape the ionization structure, shock excitation, and gas kinematics of the host's discs. We also attempted to connect with several of the well-studied observed systems. 
