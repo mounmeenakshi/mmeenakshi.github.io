@@ -2,7 +2,7 @@
 title: How do AGN jets shape the disc's evolution and kinematics?
 type: "Research"
 layout: "single"
-
+class: outflows-wide
 summary: " "
 
 image:
@@ -20,20 +20,34 @@ Time evolution of ionization extent in Sim. B (vertical jet) and D (inclined jet
 
 
 
-<div style="display:flex; gap:20px; flex-wrap:wrap;">
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:24px;">
 
-  <div style="flex:1; min-width:300px;">
-    <h4>Face-on</h4>
-    <video autoplay loop muted controls playsinline width="100%">
-      <source src="SimE_face_h264.mp4" type="video/mp4">
+  <div>
+    <p><strong>Face-on</strong></p>
+    <video width="100%" autoplay loop muted controls playsinline>
+      <source src="SimE_face.mp4" type="video/mp4">
     </video>
   </div>
 
-  <div style="flex:1; min-width:300px;">
-    <h4>Edge-on</h4>
-    <video autoplay loop muted controls playsinline width="100%">
+  <div>
+    <p><strong>Edge-on</strong></p>
+    <video width="100%" autoplay loop muted controls playsinline>
       <source src="SimE_edge.mp4" type="video/mp4">
     </video>
+  </div>
+
+</div>
+
+
+
+<div style="display:flex; justify-content:center; gap:16px; width:100vw; margin-left:calc(50% - 50vw);">
+
+  <div style="width:49vw;">
+    {{< video library="true" src="SimD_face.mp4" controls="yes" >}}
+  </div>
+
+  <div style="width:49vw;">
+    {{< video library="true" src="SimD_edge.mp4" controls="yes" >}}
   </div>
 
 </div>
