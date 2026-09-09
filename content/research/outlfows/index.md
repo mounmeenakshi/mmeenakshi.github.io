@@ -2,11 +2,7 @@
 title: "How do AGN jets shape the disc dynamics?"
 type: Research
 
-summary: ""
-
-tags:
-  - AGN
-  - Jets
+summary: "AGN-driven jets are not so uncommon in out universe. Observations show that they can strongly influence the evolution of their host galaxies, with many radio galaxies exhibiting highly turbulent, disturbed gas and velocity dispersions far greater than those in non-jetted systems. A central question of my research is: can we reproduce these signatures in simulations and connect them directly to observations?"
 
 image:
   filename: jet_image.png
