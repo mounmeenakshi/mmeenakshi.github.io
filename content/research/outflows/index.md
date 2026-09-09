@@ -1,5 +1,5 @@
 ---
-title: How do AGN jets shape the disc dynamics?
+title: How do AGN jets shape the disc's evolution and kinematics?
 type: "Research"
 layout: "single"
 
