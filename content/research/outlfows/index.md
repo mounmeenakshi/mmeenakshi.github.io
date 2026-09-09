@@ -1,8 +1,18 @@
 ---
-title: How do compact AGN-driven jets affect the kpc-gas discs?
+title: "Compact AGN-Driven Outflows"
+date: 2026-09-09
+type: Research
 
+summary: "How do AGN jets shape the disc dynamics?"
 
-<div style="display:flex; justify-content:space-between; align-items:flex-end; gap:100px; flex-wrap:wrap;">
+tags:
+  - AGN
+  - Jets
+
+image:
+  filename: jet_image.png
+---
+"display:flex; justify-content:space-between; align-items:flex-end; gap:100px; flex-wrap:wrap;">
 
   <div style="flex:1; min-width:320px;">
 
