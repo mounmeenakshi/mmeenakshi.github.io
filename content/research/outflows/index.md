@@ -19,23 +19,20 @@ Some animations from the work:
 Time evolution of ionization extent in Sim. B (vertical jet) and D (inclined jet). See [The extent of ionization in simulations of radio-loud AGNs impacting kpc gas discs](https://arxiv.org/abs/2201.06797), for details.
 
 
-{{< video library="true" src="SimE_face.mp4" controls="yes" >}}
-
-{{< video library="true" src="SimE_edge.mp4" controls="yes" >}}
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
 
   <div style="flex:1; min-width:300px;">
     <h4>Face-on</h4>
     <video autoplay loop muted controls playsinline width="100%">
-      <source src="assets/media/SimE_face.mp4" type="video/mp4">
+      <source src="SimE_face.mp4" type="video/mp4">
     </video>
   </div>
 
   <div style="flex:1; min-width:300px;">
     <h4>Edge-on</h4>
     <video autoplay loop muted controls playsinline width="100%">
-      <source src="assets/media/SimE_edge.mp4" type="video/mp4">
+      <source src="SimE_edge.mp4" type="video/mp4">
     </video>
   </div>
 
