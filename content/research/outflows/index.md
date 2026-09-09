@@ -25,7 +25,7 @@ Time evolution of ionization extent in Sim. B (vertical jet) and D (inclined jet
   <div style="flex:1; min-width:300px;">
     <h4>Face-on</h4>
     <video autoplay loop muted controls playsinline width="100%">
-      <source src="SimE_face.mp4" type="video/mp4">
+      <source src="SimE_face_h264.mp4" type="video/mp4">
     </video>
   </div>
 
