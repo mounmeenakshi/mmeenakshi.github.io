@@ -1,9 +1,9 @@
 ---
-title: "Compact AGN-Driven Outflows"
-date: 2026-09-09
+title: "How do AGN jets shape the disc dynamics?"
+
 type: Research
 
-summary: "How do AGN jets shape the disc dynamics?"
+summary: 
 
 tags:
   - AGN
@@ -12,15 +12,14 @@ tags:
 image:
   filename: jet_image.png
 ---
-"display:flex; justify-content:space-between; align-items:flex-end; gap:100px; flex-wrap:wrap;">
 
   <div style="flex:1; min-width:320px;">
 
   
 <p style="margin-top: 100px;">
-I use high-resolution simulations to study how AGN jets propagate through multiphase, fractal gas discs. My work explores how jet power and orientation shape the ionization structure, shock excitation, and gas kinematics, driving enhanced velocity dispersion and disturbed disc dynamics. These results are directly relevant to observations, where many jetted galaxies exhibit turbulent, disturbed gas, highlighting the far-reaching impact of AGN jets on the evolution of their host galaxies. 
+AGN-driven jets are not so uncommon in out universe. Observations show that they can strongly influence the evolution of their host galaxies, with many radio galaxies exhibiting highly turbulent, disturbed gas and velocity dispersions far greater than those in non-jetted systems. A central question of my research is: can we reproduce these signatures in simulations and connect them directly to observations?
 
-<p style="margin-top: 5px;">
+I address this using high-resolution simulations of AGN jets interacting with multiphase, fractal gas discs. My work investigates how jet power and orientation shape the ionization structure, shock excitation, and gas kinematics of the host's discs. We also attempted to connect with several of the well-studied observed systems. 
 
 
   </div>
