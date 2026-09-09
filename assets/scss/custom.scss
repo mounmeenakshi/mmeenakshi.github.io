@@ -49,7 +49,7 @@
 }
 
 .article-container {
-  max-width: 850px;
+  max-width: 2200px;
   padding: 0 20px 0 20px;
   margin: 0 auto 0 auto;
   font-size: 18px;
@@ -59,6 +59,11 @@
 .docs-toc {
   text-align: left;
 }
+
+.article-sidebar {
+  display: none !important;
+}
+
 
 #TableOfContents li a {
   line-height: 20px
@@ -70,9 +75,10 @@
 }
 
 
-.outflows-wide .article-container {
-  max-width: 1400px;
+.docs-toc {
+  display: none !important;
 }
+
 
 /* article styling */
 .article {
