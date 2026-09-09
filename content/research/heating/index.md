@@ -15,4 +15,4 @@ Galaxy clusters are filled with hot, X-ray emitting gas that is expected to cool
 Using high-resolution simulations, I investigate how large-scale AGN jets deposit their energy into the intracluster medium and regulate the cooling of the cluster gas.
 
 
-{{< video library="true" src="animations/jet_evolution.mp4" controls="yes" >}}
+{{< video library="true" src="animations/jet.mp4" controls="yes" >}}
