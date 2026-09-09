@@ -6,7 +6,7 @@ layout: "single"
 summary: " "
 
 image:
-  caption: https://indianexpress.com/article/technology/science/jets-from-black-holes-stirring-gas-in-galaxies-finds-new-study-8511300/
+  caption: https://www.techexplorist.com/bubble-blowing-relativistic-jets-center-teacup-galaxy/57879/
   focal_point: Smart
 ---
 

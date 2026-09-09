@@ -6,7 +6,7 @@ layout: "single"
 summary: " "
 
 image:
-  caption: 
+  caption: Heating deposition by a self-regulated jet in clusters
   focal_point: Smart
 ---
 

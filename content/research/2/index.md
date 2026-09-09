@@ -6,7 +6,7 @@ layout: "single"
 summary: " "
 
 image:
-  caption: 
+  caption: Synchrotron emission from large-scale FR-II like jets
   focal_point: Smart
 ---
 
