@@ -20,7 +20,7 @@ content:
 design:
   columns: '2'
   # Toggle between the various page layout types.
-     1 = List
+  #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
