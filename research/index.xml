@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Researches | Meenakshi M</title><link>https://mounmeenakshi.github.io/research.html</link><atom:link href="https://mounmeenakshi.github.io/research/index.xml" rel="self" type="application/rss+xml"/><description>Researches</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://mounmeenakshi.github.io/media/icon_hu11734318148517933569.png</url><title>Researches</title><link>https://mounmeenakshi.github.io/research.html</link></image><item><title>How do AGN jets shape the disc's evolution and kinematics?</title><link>https://mounmeenakshi.github.io/research/outflows.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mounmeenakshi.github.io/research/outflows.html</guid><description>&lt;p>AGN-driven jets are not so uncommon in out universe. Observations show that they can strongly influence the evolution of their host galaxies, with many radio galaxies exhibiting highly turbulent, disturbed gas and velocity dispersions far greater than those in non-jetted systems. A central question of my research is: can we reproduce these signatures in simulations and connect them directly to observations?&lt;/p>
-&lt;p>I address this using high-resolution simulations of AGN jets interacting with multiphase, fractal gas discs. My work investigates how jet power and orientation shape the ionization structure, shock excitation, and gas kinematics of the host&amp;rsquo;s discs. We also attempted to connect with several of the well-studied observed systems.&lt;/p></description></item><item><title>How do jets heat the clusters?</title><link>https://mounmeenakshi.github.io/research/heating.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mounmeenakshi.github.io/research/heating.html</guid><description>&lt;p>Galaxy clusters are filled with hot, X-ray emitting gas that is expected to cool and flow towards the cluster centre, yet observations show little evidence for the large cooling flows predicted by simple models. This &amp;ldquo;cooling-flow problem&amp;rdquo; points to a missing source of heating, with AGN jets emerging as a leading candidate.&lt;/p>
-&lt;p>Using high-resolution simulations, I investigate how large-scale AGN jets deposit their energy into the intracluster medium and regulate the cooling of the cluster gas.&lt;/p>
+&lt;p>I address this using high-resolution simulations of AGN jets interacting with multiphase, fractal gas discs. My work investigates how jet power and orientation shape the ionization structure, shock excitation, and gas kinematics of the host&amp;rsquo;s discs. We also attempted to connect with several of the well-studied observed systems.
+Some animations from the work:&lt;/p>
+&lt;p>
 &lt;video controls >
-&lt;source src="../media/animations/jet.mp4" type="video/mp4">
-&lt;/video></description></item><item><title>Radio emission from AGN-driven jets and winds</title><link>https://mounmeenakshi.github.io/research/synchrotron.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mounmeenakshi.github.io/research/synchrotron.html</guid><description>&lt;p>Radio emission from active galactic nuclei (AGNs) is ubiquitous, yet the physical mechanisms behind it are not always straightforward to disentangle from observations alone. Using relativistic-magnetohydrodynamic simulations, I investigate how AGN-driven jets and winds evolve and interact with their surroundings, and how these processes shape the radio emission and observable diagnostics of AGN feedback.&lt;/p></description></item></channel></rss>
+&lt;source src="../research/outflows/ionization_jet.mp4" type="video/mp4">
+&lt;/video>
+Time evolution of ionization extent in Sim. B (vertical jet) and D (inclined jet). See &lt;a href="https://arxiv.org/abs/2201.06797" target="_blank" rel="noopener">The extent of ionization in simulations of radio-loud AGNs impacting kpc gas discs&lt;/a>, for details.&lt;/p>
+&lt;video controls >
+&lt;source src="../research/outflows/SimE_face.mp4" type="video/mp4">
+&lt;/video>
+&lt;video controls >
+&lt;source src="../research/outflows/simE_edge.mp4" type="video/mp4">
+&lt;/video>
+&lt;div style="display:flex; gap:20px; flex-wrap:wrap;">
+&lt;div style="flex:1; min-width:300px;">
+&lt;h4>Face-on&lt;/h4>
+&lt;video autoplay loop muted controls playsinline width="100%">
+&lt;source src="assets/media/SimE_face.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;div style="flex:1; min-width:300px;">
+&lt;h4>Edge-on&lt;/h4>
+&lt;video autoplay loop muted controls playsinline width="100%">
+&lt;source src="assets/media/SimE_edge.mp4" type="video/mp4">
+&lt;/video>
+&lt;/div>
+&lt;/div>
+&lt;video controls >
+&lt;source src="../research/outflows/SimD_face.mp4" type="video/mp4">
+&lt;/video>
+&lt;video controls >
+&lt;source src="../research/outflows/SimD_edge.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>Animations from Modelling observable signatures of jet-ISM interaction: thermal emission and gas kinematics. Time evolution of [OIII] flux,[OIII] weighted mean velocity and W80 widths for Sim E and D at 90 degrees and 20 degrees image plane.&lt;/p></description></item><item><title>How do jets heat the clusters?</title><link>https://mounmeenakshi.github.io/research/heating.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mounmeenakshi.github.io/research/heating.html</guid><description>&lt;p>Galaxy clusters are filled with hot, X-ray emitting gas that is expected to cool and flow towards the cluster centre, yet observations show little evidence for the large cooling flows predicted by simple models. This &amp;ldquo;cooling-flow problem&amp;rdquo; points to a missing source of heating, with AGN jets emerging as a leading candidate.&lt;/p>
+&lt;p>Using high-resolution simulations, I investigate how large-scale AGN jets deposit their energy into the intracluster medium and regulate the cooling of the cluster gas.&lt;/p></description></item><item><title>Radio emission from AGN-driven jets and winds</title><link>https://mounmeenakshi.github.io/research/synchrotron.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mounmeenakshi.github.io/research/synchrotron.html</guid><description>&lt;p>Radio emission from active galactic nuclei (AGNs) is ubiquitous, yet the physical mechanisms behind it are not always straightforward to disentangle from observations alone. Using relativistic-magnetohydrodynamic simulations, I investigate how AGN-driven jets and winds evolve and interact with their surroundings, and how these processes shape the radio emission and observable diagnostics of AGN feedback.&lt;/p></description></item></channel></rss>
