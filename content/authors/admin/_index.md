@@ -36,7 +36,7 @@ highlight_name: true
 
 Hello, and welcome to my homepage!
 
-I am Meenakshi, a Postdoctoral Researcher at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany. 
+I am a Postdoctoral Researcher at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany. 
 <p style="margin-top: 5px;">
 My research focuses on active galactic nucleus (AGN) feedback, from the inner regions of galaxies to the larger-scale environments of galaxy clusters. 
 I am interested in understanding how AGN jets evolve as they propagate through the intracluster medium, how they transport and deposit energy, and how effectively this feedback can offset radiative cooling and regulate cooling flows in galaxy clusters.
