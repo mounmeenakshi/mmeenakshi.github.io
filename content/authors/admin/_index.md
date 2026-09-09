@@ -6,11 +6,12 @@ superuser: true
 status:
   icon:
 
-role: "Postdoctoral Researcher<br>Cosmology and High-Energy Astrophysics"
-
+role: Postdoctoral Researcher<br>Cosmology and High-Energy Astrophysics
+   
+   
 organizations:
   - name: Leibniz Institute for Astrophysics
-    url: https://www.aip.de/en/
+    url: https://www.aip.de/en/research/cosmology/
 
 interests:
   - Astrophysics
