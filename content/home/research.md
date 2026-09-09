@@ -10,11 +10,11 @@ content:
   filter_default: 0
   filter_button:
     - name: Compact AGN-driven outflows
-      tag: '*'
+      tag: outflows
     - name: Synchrotron emission
-      tag: '*'
+      tag: synchrotron
     - name: Large-scale AGN jets
-      tag: '*'
+      tag: clusterjets
   count: 3
   offset: 0
 design:
