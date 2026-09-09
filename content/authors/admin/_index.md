@@ -1,5 +1,5 @@
 ---
-title: Meenakshi M
+title: 
 
 superuser: true
 
