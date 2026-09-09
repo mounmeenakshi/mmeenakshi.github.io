@@ -7,7 +7,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Publications
+title: Selected Publications
 subtitle: 'See also my <a href="https://scholar.google.com/citations?user=F2XYAP4AAAAJ&hl=en" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> </a> profile'
 
 content:
