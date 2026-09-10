@@ -7,8 +7,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Selected Publications
-subtitle: 'Please see my <a href="https://scholar.google.com/citations?user=F2XYAP4AAAAJ&hl=en" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> </a> profile for all the papers'
+title: Publications
+subtitle: 
+
+#'Please see my <a href="https://scholar.google.com/citations?user=F2XYAP4AAAAJ&hl=en" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> </a> profile for all the papers'
 
 content:
   # Filter on criteria
