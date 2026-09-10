@@ -39,7 +39,7 @@ Hello, and welcome to my homepage!
 I am a Postdoctoral Researcher at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany. 
 <p style="margin-top: 5px;">
 My research focuses on active galactic nucleus (AGN) feedback, from the inner regions of galaxies to the larger-scale environments of galaxy clusters. 
-I am interested in understanding how AGN jets evolve as they propagate through the intracluster medium, how they transport and deposit energy, and how effectively this feedback can offset radiative cooling and regulate cooling flows in galaxy clusters.
+My current research focuses on understanding how AGN jets evolve as they propagate through the intracluster medium, how they transport and deposit energy, and how effectively this feedback can offset radiative cooling and regulate cooling flows in galaxy clusters.
 Using high-resolution simulations, I also investigate how AGN-driven jets and winds interact with and shape the dynamics of the surrounding interstellar medium. These interactions produce a range of observable signatures across multiple wavelengths.
 
 </div>
