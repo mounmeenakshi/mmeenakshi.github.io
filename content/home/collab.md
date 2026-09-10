@@ -3,12 +3,12 @@ widget: pages
 headless: true
 weight: 81
 
-title: Collaboration Works
+title: In collaboration
 
 content:
   filters:
     folders:
-      - publications
+      - publication
     tag: collaboration
   count: 0
   order: desc
